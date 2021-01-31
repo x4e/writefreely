@@ -211,7 +211,7 @@ func (c *Collection) FriendlyVisibility() string {
 
 func (c *Collection) ShowFooterBranding() bool {
 	// TODO: implement this setting
-	return true
+	return false
 }
 
 // CanonicalURL returns a fully-qualified URL to the collection.
